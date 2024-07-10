@@ -47,7 +47,7 @@ src="https://img.shields.io/github/followers/Mubashir24241?logo=github&style=for
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> 
 <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40"/> </a> 
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> 
-<img src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png" alt="Node.js" width="40" height="40"/> </a> 
+<!-- <img src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png" alt="Node.js" width="40" height="40"/> </a>  -->
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> 
 <img src="https://seeklogo.com/images/G/google-cloud-logo-ADE788217F-seeklogo.com.png" alt="Google Cloud" width="50" height="40"/> </a>  
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> 
