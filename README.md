@@ -18,9 +18,7 @@ src="https://img.shields.io/github/followers/Mubashir24241?logo=github&style=for
 
 <h3 align="left">Languages:</h3>
 <p align="left"> 
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/800px-ISO_C%2B%2B_Logo.svg.png" alt="C++" width="35" height="40"/> </a> 
-<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> 
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer">  
 <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/267_Python_logo-512.png" alt="Python" width="40" height="40"/> </a> 
 <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/2048px-Unofficial_JavaScript_logo_2.svg.png" alt="JavaScript" width="40" height="40"/> </a> 
