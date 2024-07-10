@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 My name is [MUBASHIR MIR]
 ======================================================================================================================================
-<h4>A A Full-Stack developer | Web Developer</h4>
+<h4>A Full-Stack developer | Web Developer</h4>
 
 - 🔭 I’m currently working on Full-Stack project
 - 🌱 I’m Interested in Software / Web Development 
@@ -51,7 +51,7 @@ src="https://img.shields.io/github/followers/Mubashir24241?logo=github&style=for
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> 
 <img src="https://seeklogo.com/images/G/google-cloud-logo-ADE788217F-seeklogo.com.png" alt="Google Cloud" width="50" height="40"/> </a>  
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> 
-<img src="https://www.docker.com/wp-content/uploads/2022/03/Moby-logo.png" alt="Docker" width="50" height="40"/> </a> 
+<!-- <img src="https://www.docker.com/wp-content/uploads/2022/03/Moby-logo.png" alt="Docker" width="50" height="40"/> </a>  -->
 </p>
 
 # Badges 
