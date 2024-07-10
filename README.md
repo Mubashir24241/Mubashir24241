@@ -8,7 +8,7 @@ My name is [MUBASHIR MIR]
 - 👯 I’m making the world better by [Your Contribution]
 - 💬 Ask me about [Your Topics]
 - 📫 How to reach me: mbshrmr@gmail.com
-- ⚡ Fun fact: I'm currently studying B. Tech Computer Science
+-  I'm currently studying B. Tech Computer Science
 
 <a href="https://github.com/Mubashir24241" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/Mubashir24241?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
