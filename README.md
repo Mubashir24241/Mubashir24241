@@ -4,8 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 - 🔭 I’m currently working on a Full-Stack project
 - 🌱 I’m interested in Software / Web Development
-- 👯 I’m making the world better by [Your Contribution]
-- 💬 Ask me about [Your Topics]
+- 💬 Ask me about [Chess♟️, Database]
 - 📫 How to reach me: mbshrmr@gmail.com
 - 🎓 I'm currently studying B. Tech Computer Science
 
