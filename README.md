@@ -45,7 +45,7 @@
     <img src="https://seeklogo.com/images/P/PHP-logo-0B2FDC4529-seeklogo.com.png" alt="PHP" width="50" height="40"/> 
   </a>  
   <a href="https://www.mysql.com" target="_blank" rel="noreferrer"> 
-    <img src="https://icons-for-free.com/download-icon-development+logo+mysql+icon-1320184807686758112_512.png" alt="MySQL" width="40" height="40"/> 
+    <img src="https://pngimg.com/uploads/mysql/mysql_PNG1.png" alt="MySQL" width="40" height="40"/> 
   </a> 
   <a href="https://laravel.com" target="_blank" rel="noreferrer"> 
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1200px-Laravel.svg.png" alt="Laravel" width="40" height="40"/> 
