@@ -39,28 +39,28 @@
 ### Frameworks and Tools:
 <p align="left"> 
   <a href="https://www.javascript.com" target="_blank" rel="noreferrer"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/2048px-Unofficial_JavaScript_logo_2.svg.png" alt="JavaScript" width="40" height="40"/> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/2048px-Unofficial_JavaScript_logo_2.svg.png" alt="JavaScript" width="60" height="40"/> 
   </a> 
   <a href="https://www.php.net" target="_blank" rel="noreferrer"> 
-    <img src="https://seeklogo.com/images/P/PHP-logo-0B2FDC4529-seeklogo.com.png" alt="PHP" width="50" height="40"/> 
+    <img src="https://seeklogo.com/images/P/PHP-logo-0B2FDC4529-seeklogo.com.png" alt="PHP" width="70" height="40"/> 
   </a>  
   <a href="https://www.mysql.com" target="_blank" rel="noreferrer"> 
-    <img src="https://pngimg.com/uploads/mysql/mysql_PNG1.png" alt="MySQL" width="40" height="40"/> 
+    <img src="https://pngimg.com/uploads/mysql/mysql_PNG1.png" alt="MySQL" width="60" height="40"/> 
   </a> 
   <a href="https://laravel.com" target="_blank" rel="noreferrer"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1200px-Laravel.svg.png" alt="Laravel" width="40" height="40"/> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1200px-Laravel.svg.png" alt="Laravel" width="60" height="40"/> 
   </a> 
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" alt="Bootstrap" width="40" height="40"/> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" alt="Bootstrap" width="60" height="40"/> 
   </a> 
   <a href="https://tailwindcss.com" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40"/> 
+    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="60" height="40"/> 
   </a> 
   <a href="https://reactjs.org" target="_blank" rel="noreferrer"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" alt="React" width="40" height="40"/> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" alt="React" width="60" height="40"/> 
   </a> 
   <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" alt="Node.js" width="40" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" alt="Node.js" width="60" height="40"/>
   </a>
 </p>
 
