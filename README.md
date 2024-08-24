@@ -1,18 +1,28 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Mubashir Meer
-======================================================================================================================================
-### A Full-Stack Developer | Web Developer
+<h1 align="center">Hi there, I'm <a href="https://mubashirportfolio231.netlify.app/“ target="_blank"> MUBASHIR Meer</a></h1>
+<h3 align="center">A Full-Stack Developer | Web Developer </h3>
 
-- 🔭 I’m currently working on a Full-Stack project
-- 🌱 I’m interested in Software / Web Development
-- 💬 Ask me about [Chess♟️, Database]
-- 📫 How to reach me: mbshrmr@gmail.com
+
+- 🚀 I’m interested in Software / Web Development
+- 🔭 I’m currently working on a Full-Stack development
+- 👯 I’m always looking forward to collaborate with developers.
+- ♟️  Plays Chess
 - 🎓 I'm currently studying B. Tech Computer Science
+- 💬 Ask me about **Web Development / App Development** 
 
-<a href="https://github.com/Mubashir24241" target="_blank" rel="noreferrer"><img
-<!-- src="https://img.shields.io/github/followers/Mubashir24241?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a> -->
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Mubashir24241&label=Profile%20views&color=0e75b6&style=flat" alt="Mubashir24241" /> </p>
 
-<p align="left"> <a href="https://x.com/Mubashir7421" target="blank"><img src="https://img.shields.io/twitter/follow/Mubashir7421?logo=twitter&style=for-the-badge" alt="Mubashir7421" /></a> </p>
+<h3 align="left"><img src="https://media.giphy.com/media/KcnlGHBpnKnjZIuCMv/giphy.gif" width="50px"> Connect with me :</h3>
+<div align="left">
+
+  <a href="https://www.linkedin.com/in/mubashirahmad223"target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+
+  <a href="https://x.com/Mubashir7421"target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/></a>
+
+  <a href="mailto:mbshrmr@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+ </div>
+
+<h3 align="left"><img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="42px"> Skills :</h3>
 
 ### Languages:
 <p align="left"> 
@@ -57,6 +67,25 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
     <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" alt="Node.js" width="40" height="40"/>
   </a>
 </p>
+
+
+<h3 align="left">Tools :</h3>
+<div align="left"> 
+
+<img alt="Excel" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+<img alt="Github" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
+
+
+<img alt="Filmora" src="https://img.shields.io/badge/Filmora-0A0A0A?style=for-the-badge&logo=filmora&logoColor=white"/> 
+<img alt="Shopify" src="https://img.shields.io/badge/Shopify-7AB55C?style=for-the-badge&logo=shopify&logoColor=white"/>
+</div>
+
+
+### Work Done By Me !
+
+You can check some work done by me on my portfolio website.
+
+[My Portfolio Website !](https://mubashirportfolio231.netlify.app/)
 
 ### My GitHub Stats
 <a href="http://www.github.com/Mubashir24241">
