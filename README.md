@@ -19,7 +19,6 @@
   <a href="mailto:mbshrmr@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
  </div>
 
-<h3 align="left"><img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="42px"> Skills :</h3>
 
 ### Languages:
 <p align="left"> 
