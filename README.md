@@ -14,11 +14,8 @@
 
 <h3 align="left"><img src="https://media.giphy.com/media/KcnlGHBpnKnjZIuCMv/giphy.gif" width="50px"> Connect with me :</h3>
 <div align="left">
-
   <a href="https://www.linkedin.com/in/mubashirahmad223"target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-
   <a href="https://x.com/Mubashir7421"target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/></a>
-
   <a href="mailto:mbshrmr@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
  </div>
 
