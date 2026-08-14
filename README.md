@@ -7,7 +7,7 @@
 - 👯 I’m always looking forward to collaborate with developers.
 - ♟️  Plays Chess
 - 🎓 I'm currently studying B. Tech Computer Science
-- 💬 Ask me about **Web Development / App Development** 
+- 💬 Ask me about **Web Development / App Development / Cloud & DevOps** 
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Mubashir24241&label=Profile%20views&color=0e75b6&style=flat" alt="Mubashir24241" /> </p>
